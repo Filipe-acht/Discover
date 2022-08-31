@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Rancher&display=swap');
+
+h1 {
+    color: blue;
+    font-family: 'Ranchers';
+}
+
+strong {
+    color: red;
+}

@@ -1,1 +1,1 @@
-# Discover
+# Discover Rocketseat
